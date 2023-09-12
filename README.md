@@ -3,7 +3,7 @@
 
 <br>
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
+<br>
 - 🌱 I’m currently learning web development basic
 
 - 📫 How to reach me **danimanjarresv2004@gmail.com**

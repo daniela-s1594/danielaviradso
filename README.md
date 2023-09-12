@@ -4,19 +4,17 @@
 <br>
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning web development basic
 
 - 📫 How to reach me **danimanjarresv2004@gmail.com**
 
-- ⚡ Fun fact :- Crochet, crafts and music ❤
+- ⚡ Fun fact :- Crochet, crafts, read  and music ❤
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniela-manjarres-1362481b1/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+  
   <a href="https://www.facebook.com/daniela.manjarresvirviescas/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>

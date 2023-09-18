@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Manjarrés</h1>
-<h3 align="center">Student at Sena galán,Armenia🌟.</h3>
+<h3 align="center">Student at Sena galán Armenia🌟.</h3>
 
 <br>
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -11,7 +11,12 @@
 - ⚡ Fun fact :- Crochet, crafts, read  and music ❤
 
 <br>
+<h3>Projects that make me proud</h3>
+<ol>
+  <li><a href:"https://github.com/danielaviradso/Rick-and-Morty680.git" target:"_blank" >Rick and Morty web</a></li>
+</ol>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   

@@ -28,6 +28,7 @@ Soy una programadora en proceso, encantada por el mundo digital 💻.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaviradso&theme=light&layout=compact" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
-
+<p hidden
+ >Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 Last Edited on: 21/09/2021
+</p>
